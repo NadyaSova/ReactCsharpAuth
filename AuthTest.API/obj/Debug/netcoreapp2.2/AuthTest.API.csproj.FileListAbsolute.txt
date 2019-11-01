@@ -1,0 +1,14 @@
+C:\NS\Projects\TestAuth\AuthTest.API\bin\Debug\netcoreapp2.2\AuthTest.API.deps.json
+C:\NS\Projects\TestAuth\AuthTest.API\bin\Debug\netcoreapp2.2\AuthTest.API.runtimeconfig.json
+C:\NS\Projects\TestAuth\AuthTest.API\bin\Debug\netcoreapp2.2\AuthTest.API.runtimeconfig.dev.json
+C:\NS\Projects\TestAuth\AuthTest.API\bin\Debug\netcoreapp2.2\AuthTest.API.dll
+C:\NS\Projects\TestAuth\AuthTest.API\obj\Debug\netcoreapp2.2\AuthTest.API.csprojAssemblyReference.cache
+C:\NS\Projects\TestAuth\AuthTest.API\obj\Debug\netcoreapp2.2\AuthTest.API.csproj.CoreCompileInputs.cache
+C:\NS\Projects\TestAuth\AuthTest.API\obj\Debug\netcoreapp2.2\AuthTest.API.RazorAssemblyInfo.cache
+C:\NS\Projects\TestAuth\AuthTest.API\obj\Debug\netcoreapp2.2\AuthTest.API.RazorAssemblyInfo.cs
+C:\NS\Projects\TestAuth\AuthTest.API\obj\Debug\netcoreapp2.2\AuthTest.API.AssemblyInfoInputs.cache
+C:\NS\Projects\TestAuth\AuthTest.API\obj\Debug\netcoreapp2.2\AuthTest.API.AssemblyInfo.cs
+C:\NS\Projects\TestAuth\AuthTest.API\obj\Debug\netcoreapp2.2\AuthTest.API.RazorTargetAssemblyInfo.cache
+C:\NS\Projects\TestAuth\AuthTest.API\bin\Debug\netcoreapp2.2\AuthTest.API.pdb
+C:\NS\Projects\TestAuth\AuthTest.API\obj\Debug\netcoreapp2.2\AuthTest.API.dll
+C:\NS\Projects\TestAuth\AuthTest.API\obj\Debug\netcoreapp2.2\AuthTest.API.pdb
